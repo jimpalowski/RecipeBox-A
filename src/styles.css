@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+  font-style: italic;
+}
+
+h1{
+  font-style: normal;
+  text-decoration: underline;
+}
+
+h2{
+  font-style:oblique;
+  font-weight: bold;
+}
